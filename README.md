@@ -24,7 +24,7 @@ We welcome contributions from the community! If you have an AI assignment that y
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or questions regarding the assignments or this repository, please don't hesitate to [open an issue](link_to_issues) or [contact us](mailto:ianasdiv1adkar@gmail.com). We're here to help!
+If you have any feedback, suggestions, or questions regarding the assignments or this repository, please don't hesitate to [open an issue](https://github.com/shecoderfinally/AI/issues) or [contact us](mailto:ianasdiv1adkar@gmail.com). We're here to help!
 
 Happy learning and happy coding!
 
