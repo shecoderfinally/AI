@@ -1,5 +1,3 @@
-[Executed at: Wed Feb 7 0:12:12 PST 2024]
-
 ########## Python3 homework detected.
 ########## Running 50 test cases.
  
